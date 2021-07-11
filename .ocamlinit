@@ -1,0 +1,9 @@
+#directory "_build";;
+#require "str";;
+#require "notty.top";;
+#require "notty.unix";;
+#require "uucp,uuseg,uutf,notty";;
+#load "unix.cma";;
+#require "ANSITerminal";;
+#load "graphics.cma";;
+#require "Graphics";;

@@ -1,0 +1,14 @@
+1. Run "make build" in terminal in the scope of cs3110_M folder
+2. Run "make edit" in terminal in the scope of cs3110_M folder to open up
+   editor program
+3. Type any word and the program should display it on terminal
+4. Use "CTRL-S" to save the texts to "textfile.txt" which is located in the cs3110_M folder
+5. Click "ESC" to escape the program
+6. Run "make edit" to start a new instance of the program (prior text saved in
+   textfile.txt will not be displayed)
+
+
+  *Everytime "CTRL-S" is run the content in the file "textfile.txt" is replaced
+  with current content displayed on terminal (excluding the last line which 
+  indicates when the program is saving and the number of characters and lines 
+  in the text)
