@@ -1,7 +1,7 @@
 ## Installation Steps:
 1. Install  NOTTY in terminal:
 ````
-$ opam install notty
+$ opam install notty -y
 ````
 2. Run build in terminal:
 ````
