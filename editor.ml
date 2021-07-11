@@ -115,7 +115,7 @@ let ansi_print doc =
 
 (* helper function that converts character to image *)
 let chr_to_img ch = 
-  I.string A.(fg red ++ bg black) (Char.escaped ch)
+  I.string A.(fg black ++ bg white) (Char.escaped ch)
 
 (** [notty_message] converts a string msg to 
     a notty image that would be displayed at the beginning of the document 
