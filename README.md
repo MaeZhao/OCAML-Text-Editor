@@ -1,6 +1,9 @@
 # OCAML Text Editor
 Group project in which functional programming language OCAML was used to create a text editor. Created in CS 3110 at Cornell University.
 
+## OCAML Installation:
+Follow steps as specified here: http://www.cs.cornell.edu/courses/cs3110/2020sp/install.html
+
 ## Installation Steps:
 1. Install  NOTTY in terminal:
 ````
